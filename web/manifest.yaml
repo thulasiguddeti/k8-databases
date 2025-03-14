@@ -191,7 +191,6 @@ spec:
         type: Utilization
         averageUtilization: 5
 
-------
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
